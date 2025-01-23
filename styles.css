@@ -1,7 +1,7 @@
 
 main{
 	width= 150px !important;
-	height= 150px;
+	height= 150px !important;
 	background-color:#000000;
 }
 .hello-accio{
