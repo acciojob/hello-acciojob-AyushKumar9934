@@ -1,6 +1,6 @@
 
 main{
-	width= 150px;
+	width= 150px !important;
 	height= 150px;
 	background-color:#000000;
 }
